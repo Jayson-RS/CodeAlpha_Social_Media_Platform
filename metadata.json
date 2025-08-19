@@ -1,0 +1,5 @@
+{
+  "name": "MY Feed",
+  "description": "A modern social media feed application that uses AI to help users generate post content. It features a clean, responsive layout for viewing, creating, and interacting with posts.",
+  "requestFramePermissions": []
+}
